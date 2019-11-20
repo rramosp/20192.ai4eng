@@ -26,7 +26,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
         ------
     W6      20/ene  M4. METODOLOGIA ML          PROY/LAB
     W7      27/ene  M4. DESPLIEGUE              PROY/LAB         
-    W8      03/feb  PROY/LAB                    QUIZ 1           LAB 4, IA4ALL W1+2
+    W8      03/feb  PROY/LAB                    QUIZ 1           LAB 4, AI4Everyone W1+2
     W9      10/feb  M5. NUMPY                   PROY/LAB         
     W10     17/feb  M5. SKLEARN                 PROY/LAB         
     W11     24/feb  M6. CLUSTERING PCA          PROY/LAB
@@ -34,7 +34,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     W13     08/mar  M7. IMAGENES                PROY/LAB
     W14     16/mar  M7. SERIES                  PROY/LAB
     W15     23/mar  M8. ORGANIZACOINES          PROY/LAB         LABS 5-8
-    W16     30/Mar  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, IA4ALL W3+4
+    W16     30/Mar  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, AI4Everyone W3+4
 
 
 ## Calendario
@@ -51,7 +51,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 
     40% LABS
     20% QUIZES
-    20% IA4ALL 
+    20% AI4Everyone
     20% PROYECTO
 
 ## PROYECTO
@@ -79,3 +79,5 @@ Tendrás que hacer dos entregas:
 ## AI for Everyone
 
 Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/). Los quizes incluirán preguntas sobre el mismo según se indica más arriba
+
+Deberás de depositar el certificado de compleción en un fichero llamado **CERTIFICADO_IA4EVERYONE.pdf** en la carpeta compartida del curso.
