@@ -27,13 +27,13 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     W6      20/ene  M4. METODOLOGIA ML          PROY/LAB
     W7      27/ene  M4. DESPLIEGUE              PROY/LAB         
     W8      03/feb  PROY/LAB                    QUIZ 1           LAB 4, AI4Everyone W1+2
-    W9      10/feb  M5. NUMPY                   PROY/LAB         
-    W10     17/feb  M5. SKLEARN                 PROY/LAB         
-    W11     24/feb  M6. CLUSTERING PCA          PROY/LAB
-    W12     02/mar  M6. RNNs TF                 PROY/LAB
+    W9      10/feb  M5. PYTHON/NUMPY            PROY/LAB         
+    W10     17/feb  M5. PANDAS/SKLEARN          PROY/LAB         
+    W11     24/feb  M6. UNSUPERVISED            PROY/LAB
+    W12     02/mar  M6. NNs TF                  PROY/LAB
     W13     08/mar  M7. IMAGENES                PROY/LAB
     W14     16/mar  M7. SERIES                  PROY/LAB
-    W15     23/mar  M8. ORGANIZACOINES          PROY/LAB         LABS 5-8
+    W15     23/mar  M8. ORGANIZACIONES          PROY/LAB         LABS 5-8
     W16     30/Mar  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, AI4Everyone W3+4
 
 
@@ -75,6 +75,9 @@ Tendrás que hacer dos entregas:
 
 - **ENTREGA 1**: Un archivo llamado **PROYECTO_FASE1.pdf** en el que describas el problema predictivo a resolver, el dataset que vas a utilizar y las métricas de desempeño requeridas. Incluye igualmente un primer criterio sobre cual sería el desempeño deseable en producción (pasos 1 y 2).
 - **ENTREGA 2**: Un archivo llamado **PROYECTO_FASE2.pdf** en el que describas el resto de la ejecucióndel proyecto, con la evidencia necesaria. Tendrás que incluir una carpeta llamada **PROYECTO_FASE2_MATERIALES** donde incluyas todas las herramientas necesarias para reproducir los resultados que obtuviste (muestras de los datasets, notebooks, instrucciones de uso de las herramientas que hayas usado, etc.)
+
+**TODAS LAS ENTREGAS HAN DE DEPOSITARSE EN LA CARPETA DRIVE DE CADA ESTUDIANTE**.
+
 
 ## AI for Everyone
 
