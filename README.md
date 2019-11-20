@@ -2,7 +2,7 @@
 
 ## 2019 - Semestre II - Universidad de Antioquia
 
-#### [REGISTRATE AQUI] || [PLATAFORMA DE CALIFICACIONES](https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc/web/login)
+#### [PLATAFORMA DE CALIFICACIONES](https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc/web/login) || [REGISTRO DE GRUPOS DE PROYECTO](https://forms.gle/DPvjFTK2tHGv1XBj6)
 
 
 
