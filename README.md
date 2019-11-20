@@ -30,7 +30,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     W9      10/feb  M5. NUMPY                   PROY/LAB         
     W10     17/feb  M5. SKLEARN                 PROY/LAB         
     W11     24/feb  M6. CLUSTERING PCA          PROY/LAB
-    W12     02/mar  M6. RNNs TF                 PROY/LAB
+    W12     02/mar  M6. NNs TF                  PROY/LAB
     W13     08/mar  M7. IMAGENES                PROY/LAB
     W14     16/mar  M7. SERIES                  PROY/LAB
     W15     23/mar  M8. ORGANIZACOINES          PROY/LAB         LABS 5-8
