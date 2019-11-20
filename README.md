@@ -1,0 +1,73 @@
+# Inteligencia Artificial para las Ciencias e Ingenierías
+
+## 2019 - Semestre II - Universidad de Antioquia
+
+#### [REGISTRATE AQUI] || [PLATAFORMA DE CALIFICACIONES](https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc/web/login)
+
+
+
+## Google Colab
+
+El curso utilizará la plataforma de Google Colab para la ejecución de los notebooks. Tendrás que:
+
+- Descargarte un zip con el contenido del curso
+- Descomprimirlo en tu máquina local
+- Subirlo a alguna carpeta en tu Google Drive
+
+## Programa
+                    TUE 10:00-12:00             WED 13:00-15:00
+    week start      20-343                      20-238
+    --------------------------------------------------------------
+    W1      18/nov  M1. INTRO                   PROY/LAB
+    W2      25/nov  M2. MODELOS Y ML            PROY/LAB
+    W3      02/dic  M2. ALGORITMOS PREDICTIVOS  PROY/LAB
+    W4      09/dic  M3. GESTION DE DATOS        PROY/LAB
+    W5      16/dic  PROY/LAB                    PROY/LAB
+        ------
+    W6      20/ene  M4. METODOLOGIA ML          PROY/LAB
+    W7      27/ene  M4. DESPLIEGUE              PROY/LAB
+    W8      03/feb  PROY/LAB                    QUIZ 1
+    W9      10/feb  M5. NUMPY                   PROY/LAB
+    W10     17/feb  M5. SKLEARN                 PROY/LAB
+    W11     24/feb  M6. CLUSTERING PCA          PROY/LAB
+    W12     02/mar  M6. RNNs TF                 PROY/LAB
+    W13     08/mar  M7. IMAGENES                PROY/LAB
+    W14     16/mar  M7. SERIES                  PROY/LAB
+    W15     23/mar  M8. ORGANIZACOINES          PROY/LAB
+    W16     30/Mar  PROY/LAB                    QUIZ 2
+
+
+## Calendario
+
+    Inicio de clases: Lunes   18/nov
+    Vacaciones:       Lunes   23/dic - Viernes 17/ene
+    40% evaluado:     Sabado   8/feb
+    Fin de clases:    Viernes  4/abr
+    Examenes finales: 13-20/abril
+    Habilitaciones:   21-25/abril
+    Terminacion:      4/mayo
+
+## Evaluación
+
+    40% LABS
+    20% QUIZES
+    20% IA4ALL 
+    20% PROYECTO
+
+## PROYECTO
+
+Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
+
+1. Definir un problema predictivo
+2. Obtener un dataset para resolverlo
+3. Realizar el preprocesado y limpieza de datos
+4. Encontrar los mejores hiperparámetros para DOS algoritmos predictivos
+5. Encontrar los mejores hiperparámetros para DOS combinaciones de algoritmo no supervisado + algoritmo predictivo
+6. Realizar las curvas de aprendizaje  para cada uno de los cuatro casos anteriores
+7. Realizar una evaluación diagnóstica que contenga:
+    1. Para cada uno de los cuatro casos anteriores un diagnóstico de overfitting/bias etc.
+    1. Una recomendación justificada de qué pasos a seguir si tuvieras que intentar mejorar el desempeño obtenido.
+    1. Una evaluación sobre los retos y condiciones para desplegar en producción un modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño en producción)
+
+  (overfitting/bias, sugerencia de pasos a seguior
+
