@@ -1,6 +1,29 @@
 import requests, json, getpass, inspect, pickle, codecs
+from time import time, sleep
 from IPython.core.display import display, HTML
 import inspect
+
+
+mf_tlastcall = None
+def maxfreq(maxlapse=5):
+    """
+    ensures function calls are at least 'maxlapse' seconds apart
+    forces sleep until 'maxlapse' happens
+    """
+    def wrapper(func):
+        def function_wrapper(*args, **kwargs):
+            global mf_tlastcall
+
+            if mf_tlastcall is not None:
+                t = time()-mf_tlastcall
+                if t<maxlapse:
+                    sleep(maxlapse-t)
+
+            mf_tlastcall = time()
+            return func(*args, **kwargs)
+
+        return function_wrapper
+    return wrapper
 
 class Session:
     
@@ -8,6 +31,7 @@ class Session:
         self.endpoint = endpoint
         self.token    = None
 
+    @maxfreq()
     def do(self, request_function, url, data=None, loggedin_required=True):
         assert not loggedin_required or self.token is not None, "must login first"
         resp = request_function(self.endpoint+"/api/"+url, json=data, 
@@ -150,7 +174,7 @@ class Session:
     def delete_course_session(self, course_id, session_id):
         self.do_delete("courses/%s/sessions/%s"%(course_id, session_id))
 
-    def delete_user_session(self, user_id, course_id, session_id,delete_grades_and_submissions=True):
+    def delete_user_session(self, user_id, course_id, session_id, delete_grades_and_submissions=False):
         data = {"delete_grades_and_submissions": str(delete_grades_and_submissions)}
         self.do_delete("users/%s/courses/%s/sessions/%s"%(user_id, course_id, session_id), data=data)
 
