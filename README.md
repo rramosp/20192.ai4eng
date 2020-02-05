@@ -18,34 +18,30 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
                     TUE 10:00-12:00             WED 13:00-15:00  FECHAS DE ENTREGAS
     week start      20-343                      20-238           (domingo 11pm)
     ------------------------------------------------------------------------------
-    W1      18/nov  M1. INTRO                   PROY/LAB
-    W2      25/nov  M2. MODELOS Y ML            PROY/LAB
-    W3      02/dic  M2. ALGORITMOS PREDICTIVOS  PROY/LAB
-    W4      09/dic  M3. GESTION DE DATOS        PROY/LAB         LABS 1-3
-    W5      16/dic  PROY/LAB                    PROY/LAB         PROY_ENTREGA_1
-        ------
-    W6      20/ene  M4. METODOLOGIA ML          PROY/LAB
-    W7      27/ene  M4. DESPLIEGUE              PROY/LAB         
-    W8      03/feb  PROY/LAB                    QUIZ 1           LAB 4, AI4Everyone W1+2
-    W9      10/feb  M5. PYTHON/NUMPY            PROY/LAB         
-    W10     17/feb  M5. PANDAS/SKLEARN          PROY/LAB         
-    W11     24/feb  M6. UNSUPERVISED            PROY/LAB
-    W12     02/mar  M6. NNs TF                  PROY/LAB
-    W13     08/mar  M7. IMAGENES                PROY/LAB
-    W14     16/mar  M7. SERIES                  PROY/LAB
-    W15     23/mar  M8. ORGANIZACIONES          PROY/LAB         LABS 5-8
-    W16     30/Mar  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, AI4Everyone W3+4
-
+    W1      03/feb  M1. INTRO                   PROY/LAB
+    W2      10/feb  M2. MODELOS Y ML            PROY/LAB
+    W3      17/feb  M2. ALGORITMOS PREDICTIVOS  PROY/LAB
+    W4      24/feb  M3. GESTION DE DATOS        PROY/LAB         LABS 1-3
+    W5      02/mar  PROY/LAB                    PROY/LAB         PROY_ENTREGA_1
+    W6      09/mar  M4. METODOLOGIA ML          PROY/LAB
+    W7      16/mar  M4. DESPLIEGUE              PROY/LAB         
+    W8      23/mar  PROY/LAB                    QUIZ 1           LAB 4, AI4Everyone W1+2
+    --------------------- VACACIONES --------------------------------
+    W9      13/abr  M5. PYTHON/NUMPY            PROY/LAB         
+    W10     20/abr  M5. PANDAS/SKLEARN          PROY/LAB         
+    W11     27/abr  M6. UNSUPERVISED            PROY/LAB
+    W12     04/may  M6. NNs TF                  PROY/LAB
+    W13     11/may  M7. IMAGENES                PROY/LAB
+    W14     18/may  M7. SERIES                  PROY/LAB
+    W15     25/may  M8. ORGANIZACIONES          PROY/LAB         LABS 5-8
+    W16     30/may  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, AI4Everyone W3+4
 
 ## Calendario
 
-    Inicio de clases: Lunes   18/nov
-    Vacaciones:       Lunes   23/dic - Viernes 17/ene
-    40% evaluado:     Sabado   8/feb
-    Fin de clases:    Viernes  4/abr
-    Examenes finales: 13-20/abril
-    Habilitaciones:   21-25/abril
-    Terminacion:      4/mayo
+    30/may fin de clases
+    1-6/jun habilitaciones y reporte de notas
+    8-13/jun validaciones y reporte de notas
+
 
 ## Evaluación
 
