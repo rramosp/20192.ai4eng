@@ -27,6 +27,8 @@ def create_student_lab(source_notebook_fname, target_notebook_fname, enable_wget
         ## uncomment wget lines
         if enable_wgets and c['cell_type']=='code' and 'source' in c:
             c['source'] = [i.replace("#!wget", "!wget") for i in c['source']]
+            c['source'] = [i for i in c['source'] if not 'localhost:5000' in i]
+
 
         ## cells for which output is kept
         if c['cell_type']=='code' and 'source' in c and\
