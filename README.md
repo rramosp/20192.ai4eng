@@ -46,7 +46,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 ## Evaluación
 
     50% LABS
-    10% QUIZES
+    10% QUIZ
     20% AI4Everyone
     20% PROYECTO
 
