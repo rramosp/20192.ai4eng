@@ -21,20 +21,20 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     W1      03/feb  M1. INTRO                   PROY/LAB
     W2      10/feb  M2. MODELOS Y ML            PROY/LAB
     W3      17/feb  M2. ALGORITMOS PREDICTIVOS  PROY/LAB
-    W4      24/feb  M3. GESTION DE DATOS        PROY/LAB         LABS 1-3
-    W5      02/mar  PROY/LAB                    PROY/LAB         PROY_ENTREGA_1
+    W4      24/feb  M3. GESTION DE DATOS        PROY/LAB         
+    W5      02/mar  PROY/LAB                    PROY/LAB         
     W6      09/mar  M4. METODOLOGIA ML          PROY/LAB
     W7      16/mar  M4. DESPLIEGUE              PROY/LAB         
-    W8      23/mar  PROY/LAB                    QUIZ 1           LAB 4, AI4Everyone W1+2
+    W8      23/mar  PROY/LAB                    QUIZ 1           
     --------------------- VACACIONES --------------------------------
     W9      13/abr  M5. PYTHON/NUMPY            PROY/LAB         
     W10     20/abr  M5. PANDAS/SKLEARN          PROY/LAB         
-    W11     27/abr  M6. UNSUPERVISED            PROY/LAB
-    W12     04/may  M6. NNs TF                  PROY/LAB
-    W13     11/may  M7. IMAGENES                PROY/LAB
-    W14     18/may  M7. SERIES                  PROY/LAB
-    W15     25/may  M8. ORGANIZACIONES          PROY/LAB         LABS 5-8
-    W16     30/may  PROY/LAB                    QUIZ 2           PROY_ENTREGA_2, AI4Everyone W3+4
+    W11     27/abr  M6. UNSUPERVISED            PROY/LAB         
+    W12     04/may  M6. NNs TF                  PROY/LAB         PROY_ENTREGA_1 (lun 04 may 11.59pm)
+    W13     11/may  M7. IMAGENES                M8. ORGANIZACIONES
+    W14     18/may  REVISION QUIZ               QUIZ             QUIZ MIERCOLES (mie 20 may en hora de clase)
+    W15     25/may  PROY/LAB                    PROY/LAB         ENTREGA TALLERES (lun 25 may 11.59pm)
+    W16     01/jun  PROY/LAB                    PROY/LAB         PROY_ENTREGA_2 (mie 03 jun 11.59pm) , AI4Everyone
 
 ## Calendario
 
@@ -45,8 +45,8 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 
 ## Evaluación
 
-    40% LABS
-    20% QUIZES
+    50% LABS
+    10% QUIZES
     20% AI4Everyone
     20% PROYECTO
 
