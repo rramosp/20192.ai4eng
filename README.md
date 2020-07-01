@@ -42,11 +42,14 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     1-6/jun habilitaciones y reporte de notas
     8-13/jun validaciones y reporte de notas
 
+## Fechas definitivas de entrega
+
+    Labs:  5/Jul 11.59pm
+    Proy:  19/jul 11.59pm
 
 ## Evaluación
 
-    50% LABS
-    10% QUIZ
+    60% LABS 1-8
     20% AI4Everyone
     20% PROYECTO
 
